@@ -1,0 +1,16 @@
+{
+  "horizon_years": 5,
+  "loan_term_years": 30,
+  "discount_rate_yr": 0.03,
+  "down_payment_pct": 0.2,
+  "closing_cost_pct": 0.02,
+  "selling_cost_pct": 0.06,
+  "maintenance_rate_yr": 0.01,
+  "renters_insurance_yr": 250.0,
+  "price_appreciation_yr": 0.02,
+  "rent_growth_yr": 0.03,
+  "property_tax_growth_yr": 0.02,
+  "insurance_growth_yr": 0.02,
+  "hoa_growth_yr": 0.02,
+  "maintenance_growth_yr": 0.02
+}
